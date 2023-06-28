@@ -12,7 +12,7 @@ const root = createRoot(rootElement);
 root.render(
   <StrictMode>
     <div className="App">
-      <h1>Display Weather</h1>
+      <h1>Weather</h1>
       <h2>78 °F </h2>
 
       <ReactAnimatedWeather
